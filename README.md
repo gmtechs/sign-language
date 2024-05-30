@@ -1,5 +1,5 @@
 ---
-title: YOLO8 SignLanguage
+title: Sign Language Predictor
 emoji: 📚
 colorFrom: pink
 colorTo: blue
